@@ -1,18 +1,10 @@
-## Laravel Roles Permissions Admin - Bouncer version
+## Laravel Sucuri Admin - Bouncer version
 
-__Update October 2019__: this project was created in 2017 as Laravel 5.4 version, and now we upgraded it to Laravel 6 version, also changed the design theme from [AdminLTE]((https://adminlte.io/)) to [CoreUI](https://coreui.io)
+__Update October 2020__: this project was created in 2020 as Laravel 5.8 version, and now we upgraded it to Laravel 6 version, also changed the design theme 
 
 - - - - -
 
-This is a Laravel 6 adminpanel starter project with roles-permissions management based on [Joseph Silber's Bouncer package](https://github.com/JosephSilber/bouncer), [CoreUI theme](https://coreui.io/) and [Datatables.net](https://datatables.net).
 
-We've also created almost identical project based on Spatie's Laravel-permission package: [see here](https://github.com/LaravelDaily/laravel-roles-permissions-manager)
-
-Part of this project was generated automatically by [QuickAdminPanel system](https://quickadminpanel.com/).
-
-![Laravel roles permissions screenshot](https://laraveldaily.com/wp-content/uploads/2019/10/laravel-roles-permissions-bouncer-01.png)
-
-![Laravel roles permissions screenshot 02](https://laraveldaily.com/wp-content/uploads/2019/10/laravel-roles-permissions-bouncer-02.png)
 
 ## Usage
 
